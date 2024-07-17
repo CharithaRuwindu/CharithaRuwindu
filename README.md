@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charitha Bandaraadhikaram</h1>
-<h3 align="center">An undergraduate with IT, Law and Business Management background</h3>
+<h3 align="center">A Software Engineer, UCSC graduate with IT, Law and Business Management background</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
